@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44851410808\\Desktop\\Antares\\Antares.vendas\\Antares.vendas.csproj",
+      "projectUniqueName": "c:\\Users\\44851410808\\Desktop\\projetin\\antares\\Antares.vendas.csproj",
       "projectName": "Antares.vendas",
-      "projectPath": "C:\\Users\\44851410808\\Desktop\\Antares\\Antares.vendas\\Antares.vendas.csproj",
+      "projectPath": "c:\\Users\\44851410808\\Desktop\\projetin\\antares\\Antares.vendas.csproj",
       "packagesPath": "C:\\Users\\44851410808\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44851410808\\Desktop\\Antares\\Antares.vendas\\obj\\",
+      "outputPath": "c:\\Users\\44851410808\\Desktop\\projetin\\antares\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
