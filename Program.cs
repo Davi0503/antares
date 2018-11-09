@@ -1,4 +1,5 @@
 ﻿using System;
+using Antares.vendas.ViewController;
 
 namespace Antares.vendas
 {
@@ -7,6 +8,11 @@ namespace Antares.vendas
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            UsuarioViewConroller.CadastrarUsuario();
+
+
+
         }
     }
 }
