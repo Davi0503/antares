@@ -48,7 +48,7 @@ namespace Antares.vendas.ViewController {
 
             UsuarioViewModels usuario;
 
-            string[] usuariosArray = File.ReadAllLines (@"banco_de_dados\Usuarios.csv");
+            string[] usuariosArray = File.ReadAllLines (@"banco_de_dados/Usuarios.csv");
 
             foreach (string item in usuariosArray) {
 
@@ -66,6 +66,53 @@ namespace Antares.vendas.ViewController {
             return lsUsuario;
 
         }
+
+        public static UsuarioViewModels Login (){
+            int id;
+            string senha;
+            List<UsuarioViewModels> lsUsuario = Listar();
+            UsuarioViewModels usuario = new UsuarioViewModels();
+
+            System.Console.WriteLine("Insira seu ID");
+            id = int.Parse(Console.ReadLine());
+
+            System.Console.WriteLine("Inisira sua senha");
+            senha = Console.ReadLine();           
+
+            foreach (UsuarioViewModels item in lsUsuario)
+            {
+                if(item.ID == id && item.Senha == senha){
+
+                    Console.Clear();
+
+                    System.Console.WriteLine($"Seja bem vindo {item.Nome}");
+
+                    Console.ReadKey();
+                    return usuario;
+                }
+            }
+            
+            return null;     
+
+        }
+
+
+        public static bool VerificacaoCargo (UsuarioViewModels usuario){
+
+            bool flag;
+
+            if(usuario.Cargo =="ADM"){
+
+                flag = true;
+                
+            }else{
+                flag = false;
+            }
+            return flag;
+        }
+
+
+
 
     }
 }

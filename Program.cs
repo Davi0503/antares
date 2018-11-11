@@ -1,5 +1,6 @@
 ﻿using System;
 using Antares.vendas.ViewController;
+using Antares.vendas.ViewModels;
 
 namespace Antares.vendas
 {
@@ -7,12 +8,23 @@ namespace Antares.vendas
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            UsuarioViewModels usuarioLogado = new UsuarioViewModels();
+            bool flag;
 
-            UsuarioViewConroller.CadastrarUsuario();
+            
+            usuarioLogado = UsuarioViewConroller.Login();
 
+            System.Console.WriteLine(usuarioLogado.Nome);
 
+            flag = UsuarioViewConroller.VerificacaoCargo(usuarioLogado);
 
+            if(flag == true){
+
+                System.Console.WriteLine("Usuario é adm");
+            }
+            else{
+                System.Console.WriteLine("Usuario é um merda");
+            }
         }
     }
 }

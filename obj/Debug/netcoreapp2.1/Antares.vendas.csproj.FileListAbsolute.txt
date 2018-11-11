@@ -1,22 +1,11 @@
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\bin\Debug\netcoreapp2.1\Antares.vendas.deps.json
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\bin\Debug\netcoreapp2.1\Antares.vendas.runtimeconfig.json
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\bin\Debug\netcoreapp2.1\Antares.vendas.runtimeconfig.dev.json
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\bin\Debug\netcoreapp2.1\Antares.vendas.dll
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\bin\Debug\netcoreapp2.1\Antares.vendas.pdb
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\obj\Debug\netcoreapp2.1\Antares.vendas.csprojAssemblyReference.cache
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\obj\Debug\netcoreapp2.1\Antares.vendas.csproj.CoreCompileInputs.cache
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\obj\Debug\netcoreapp2.1\Antares.vendas.AssemblyInfoInputs.cache
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\obj\Debug\netcoreapp2.1\Antares.vendas.AssemblyInfo.cs
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\obj\Debug\netcoreapp2.1\Antares.vendas.dll
-C:\Users\44851410808\Desktop\Antares\Antares.vendas\obj\Debug\netcoreapp2.1\Antares.vendas.pdb
-C:\Users\44851410808\Desktop\projetin\antares\bin\Debug\netcoreapp2.1\Antares.vendas.deps.json
-C:\Users\44851410808\Desktop\projetin\antares\bin\Debug\netcoreapp2.1\Antares.vendas.runtimeconfig.json
-C:\Users\44851410808\Desktop\projetin\antares\bin\Debug\netcoreapp2.1\Antares.vendas.runtimeconfig.dev.json
-C:\Users\44851410808\Desktop\projetin\antares\bin\Debug\netcoreapp2.1\Antares.vendas.dll
-C:\Users\44851410808\Desktop\projetin\antares\bin\Debug\netcoreapp2.1\Antares.vendas.pdb
-C:\Users\44851410808\Desktop\projetin\antares\obj\Debug\netcoreapp2.1\Antares.vendas.csprojAssemblyReference.cache
-C:\Users\44851410808\Desktop\projetin\antares\obj\Debug\netcoreapp2.1\Antares.vendas.csproj.CoreCompileInputs.cache
-C:\Users\44851410808\Desktop\projetin\antares\obj\Debug\netcoreapp2.1\Antares.vendas.AssemblyInfoInputs.cache
-C:\Users\44851410808\Desktop\projetin\antares\obj\Debug\netcoreapp2.1\Antares.vendas.AssemblyInfo.cs
-C:\Users\44851410808\Desktop\projetin\antares\obj\Debug\netcoreapp2.1\Antares.vendas.dll
-C:\Users\44851410808\Desktop\projetin\antares\obj\Debug\netcoreapp2.1\Antares.vendas.pdb
+/home/davi/Área de trabalho/Projetos/projetin/antares/bin/Debug/netcoreapp2.1/Antares.vendas.deps.json
+/home/davi/Área de trabalho/Projetos/projetin/antares/bin/Debug/netcoreapp2.1/Antares.vendas.runtimeconfig.json
+/home/davi/Área de trabalho/Projetos/projetin/antares/bin/Debug/netcoreapp2.1/Antares.vendas.runtimeconfig.dev.json
+/home/davi/Área de trabalho/Projetos/projetin/antares/bin/Debug/netcoreapp2.1/Antares.vendas.dll
+/home/davi/Área de trabalho/Projetos/projetin/antares/bin/Debug/netcoreapp2.1/Antares.vendas.pdb
+/home/davi/Área de trabalho/Projetos/projetin/antares/obj/Debug/netcoreapp2.1/Antares.vendas.csprojAssemblyReference.cache
+/home/davi/Área de trabalho/Projetos/projetin/antares/obj/Debug/netcoreapp2.1/Antares.vendas.csproj.CoreCompileInputs.cache
+/home/davi/Área de trabalho/Projetos/projetin/antares/obj/Debug/netcoreapp2.1/Antares.vendas.AssemblyInfoInputs.cache
+/home/davi/Área de trabalho/Projetos/projetin/antares/obj/Debug/netcoreapp2.1/Antares.vendas.AssemblyInfo.cs
+/home/davi/Área de trabalho/Projetos/projetin/antares/obj/Debug/netcoreapp2.1/Antares.vendas.dll
+/home/davi/Área de trabalho/Projetos/projetin/antares/obj/Debug/netcoreapp2.1/Antares.vendas.pdb
